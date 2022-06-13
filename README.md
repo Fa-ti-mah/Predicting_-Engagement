@@ -4,3 +4,12 @@
 - Customer acquisition and retention
 - Evaluation using Classisfication Models
 - Precision, Accuracy and Recall`
+
+Raw:
+- Variable Encoding
+- Training and Testing
+- Building Random Forest Model
+- ROC and AUC
+
+Sorce:
+- 
